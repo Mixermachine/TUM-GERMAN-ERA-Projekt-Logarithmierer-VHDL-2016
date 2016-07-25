@@ -1,0 +1,65 @@
+Protokoll-VHDL
+
+09.05.2016, Montag
+Anwesend: Dietz, Doerr, Waidner
+Dauer: 2h
+Ziel: Erstellung des Pflichtenhefts
+Verlauf: Gemeinsame Einarbeitung in das Thema und Erstellung des Pflichtenhefts
+Ergebnis: Pflichtenheft wurde in der ersten Fassung fertig gestellt, mit dem Verbleib, den Tutor bezüglich Umfang und äußerer Form zu befragen.
+Weiteres Vorgehen: Tutor am Mittwoch in der Sprechstunde fragen und Anregungen im Anschluss einarbeiten
+
+11.05.2016, Mittwoch
+Anwesend: Dietz, Waidner
+Dauer: 1,5h
+Ziel: abschließen des Pflichtenhefts
+Verlauf: Nach Rücksprache mit dem Tutor wurden Änderungen in das Pflichtenheft übernommen.
+Ergebnis: Pflichtenheft ist fertig.
+
+23.05.2016, Montag
+Anwesend: Dietz, Doerr, Waidner	
+Dauer: 2,5h
+Ziel: Grundlegende Erstellung der Spezifikation
+Verlauf: Erstellung des Pflichtenheftes, 
+Ergebnis: Spezifikation wurde fertiggestellt.
+
+02.06.2016, Donnerstag
+Anwesend: Dietz, Doerr, Waidner	
+Dauer: 2h
+Ziel: Überarbeitung und erneute Kontrolle der Spezifikation
+Verlauf: Ausbesserung kleiner Makel und Umsetzung von Verbesserungsvorschlägen.
+Ergebnis: Überarbeitete Spezifikation
+
+20.06.2016, Montag
+Anwesend: Dietz, Doerr, Waidner
+Dauer: 3,5h
+Ziel: Theoretische und ausführliche Ausarbeitung der Implementierung
+Verlauf: Konzept fertiggestellt
+
+22.06.2016, Mittwoch
+Anwesend: Dietz, Doerr, Waidner
+Dauer: 3h
+Ziel: fertigstellen der Implementierung
+Verlauf: Umsetzung der Implementierung, leichtere Schwierigkeiten mit dem Build-Prozess
+Ergebnis: fast fertige Implementierung
+Weiteres Vorgehen: Implementierung fertigstellen, Build-Skript erstellen
+
+23.06.2016, Donnerstag
+Anwesend: Dietz, Doerr, Waidner
+Dauer: 2h
+Ziel: Fertige Implementierung
+Verlauf: Fertigstellung
+Ergebnis: Fertige Implementierung
+
+04.07.2016, Montag
+Anwesend: Dietz, Doerr, Waidner
+Dauer: 4h
+Ziel: Ausarbeitung und Projektleiterbericht anfangen und wenn möglich schon fertig stellen
+Verlauf: teilweise gemeinsame Erarbeitung der oben genannten. Fragen bzgl. Inhalt und Aufbau der Ausarbeitung und des Projektleiterberichts.
+Weiteres Vorgehen: Tutor wegen Inhalt befragen und einarbeiten.
+
+06.07.2016, Mittwoch
+Anwesend: Dietz, Doerr, Waidner
+Dauer: 3h
+Ziel: Befragung Tutor, Fertigstellen der Dokumentation und Projektleiterbericht
+Verlauf: Nach der Befragung des Tutors wurden die Anforderungen in der Dokumentation und dem Projektleiterbericht verwirklicht und fertiggestellt.
+Weiteres Vorgehen: Präsentation vorbereiten.
